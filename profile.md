@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vams-spectra-code
 - 👀 I’m interested in python, javascript, html, css, java, majorly programming and markup languages
 - 🌱 I’m currently learning html and css
-- 💞️ I’m looking to collaborate on hacking mianly
+- 💞️ I'll be going into cyber-security once i have solidified my knowledge on Web development
 - 📫You can reach me through my gmail account
 
 <!---
